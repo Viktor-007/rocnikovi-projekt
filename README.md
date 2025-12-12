@@ -15,5 +15,6 @@
    - profil pro led pásek
    - difuzor
    - montážní materiály jako jsou šrouby, oboustraná lepící páska
+   - podle potřeby rozbočky pro více větví pásku
    
    

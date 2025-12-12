@@ -2,7 +2,7 @@
 
 ## tlumící se led diodový pásek 
    - funkci má řídit fororezistor který je v součásti děliče napětí ve kterém je i normálním rezistorem
-   - 
+   - bude to sloužit jako alternativní zdroj světla
 ### seznam součástek
    - led pásek-12V 10W na 1 metru
    - nebo RGB led pásek 12V 14.4W na 1 metru 
@@ -13,6 +13,7 @@
    - ovaladač nebo regulátor podle typu pásku
    - konektory
    - profil pro led pásek
-   - 
+   - difuzor
+   - montážní materiály jako jsou šrouby, oboustraná lepící páska
    
    

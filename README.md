@@ -22,6 +22,6 @@
    - <img width="1254" height="2430" alt="image" src="https://github.com/user-attachments/assets/e3cb5051-5f7a-4a8f-8d44-5517e82492f8" />
 
 ### citace
-   - Online. 2025. Dostupné z: https://elektroschema.com/schema-zapojeni-led-pasku/. [cit. 2025-12-14].
+   - Zdroj informcí. Online. 2025. Dostupné z: https://elektroschema.com/schema-zapojeni-led-pasku/. [cit. 2025-12-14].
 
 

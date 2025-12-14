@@ -23,5 +23,6 @@
 
 ### citace
    - Zdroj informcí. Online. 2025. Dostupné z: https://elektroschema.com/schema-zapojeni-led-pasku/. [cit. 2025-12-14].
+   - Informace o zapojení led pásku. Online. 2025. Dostupné z: https://www.ledsviti.cz/jak-instalovat/prakticky-pruvodce-instalaci-led-pasku/. [cit. 2025-12-14].
 
 

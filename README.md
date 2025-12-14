@@ -18,6 +18,7 @@
    - podle potřeby rozbočky pro více větví pásku
    
 ### schéma zapojení 
-   - 
+   - <img width="383" height="274" alt="image" src="https://github.com/user-attachments/assets/16f5e699-3651-4811-b4ba-5ab727c39dc6" />
+
 
 

@@ -21,6 +21,7 @@
    - <img width="383" height="274" alt="image" src="https://github.com/user-attachments/assets/16f5e699-3651-4811-b4ba-5ab727c39dc6" />
    - <img width="1254" height="2430" alt="image" src="https://github.com/user-attachments/assets/e3cb5051-5f7a-4a8f-8d44-5517e82492f8" />
 
-
+### citace
+   - Online. 2025. Dostupné z: https://elektroschema.com/schema-zapojeni-led-pasku/. [cit. 2025-12-14].
 
 

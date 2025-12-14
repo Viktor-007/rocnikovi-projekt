@@ -17,4 +17,7 @@
    - montážní materiály jako jsou šrouby, oboustraná lepící páska
    - podle potřeby rozbočky pro více větví pásku
    
-   
+### schéma zapojení 
+   - 
+
+

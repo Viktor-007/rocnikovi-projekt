@@ -1,5 +1,7 @@
 # rocnikovi-projekt
 
+## led pásek  
+
 ## tlumící se led diodový pásek 
    - funkci má řídit fororezistor který je v součásti děliče napětí ve kterém je i normálním rezistorem
    - bude to sloužit jako alternativní zdroj světla

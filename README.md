@@ -5,7 +5,7 @@
    1. Návrh zapojení.
    2. Zapojení led pásku tak aby spolehlivě a bezzávadně svítil.
    3. Odskoušení funkce pod dohledem odborného dozoru.
-   4. 
+   4. závěrečné zkontralování práce
 
 ### seznam součástek
    - led pásek-12V 10W na 1 metru

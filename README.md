@@ -5,6 +5,7 @@
    1. Návrh zapojení.
    2. Zapojení led pásku tak aby spolehlivě a bezzávadně svítil.
    3. Odskoušení funkce pod dohledem odborného dozoru.
+   4. 
 
 ### seznam součástek
    - led pásek-12V 10W na 1 metru
@@ -14,8 +15,8 @@
    - spojovací vodiče
    - předřadnej odpor 1K
    - ovaladač nebo regulátor podle typu pásku
+   _ https://www.t-led.cz/p/rgbw-rf40b-led-ovladac-6392
    - konektory
-   - profil pro led pásek
    - difuzor
    - hliníkovy profil pro led pásek
    _ https://www.t-led.cz/p/led-profil-mikro-2-9212/09212?gclid=EAIaIQobChMIsIaO1czBkQMVmpSDBx308CyIEAQYASABEgIWi_D_BwE&gbraid=0AAAAADwQN3Tah18VPX6_AUpsVr-Kt1KkX&wbraid=CkAKCAiAgP_JBhBMEjAA98eIfxoAeOF2iGvkxqoSm08Bxm3qry7apgKc1KECqaYuCvgiLKiYhza_CF09ULcaApGJ&utm_source=google&utm_medium=cpc&utm_id=20545706330&utm_campaign={campaignname}&utm_content=&utm_term=&utm_source=google&utm_medium=cpc&utm_campaign=AV-PMAX%20%7C%20Top%20drivers%20%7C%20feed%20only&utm_id=20545706330&gad_source=1&gad_campaignid=23328974097&gbraid=0AAAAADwQN3Tah18VPX6_AUpsVr-Kt1KkX

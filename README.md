@@ -1,7 +1,7 @@
 # rocnikovi-projekt
 
 ## led pásek  
-   - Cílem projektu je návrh a realizace zpojení led pásku, včetně výběru odpovídajícího napájecího zdroje a ověření jeho správné a bezpečné funkce. 
+   - Cílem tohoto projektu je návrh a realizace zpojení led pásku, včetně výběru odpovídajícího napájecího zdroje a ověření jeho správné a bezpečné funkce. Projekt se zaměřuje na pochopení funkce LED pásků.   
    - zapojení led pásku tak aby spolehlivě a bezzávadně svítlo.
    - návrh zapojení
    - 

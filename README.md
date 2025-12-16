@@ -3,7 +3,8 @@
 ## led pásek  
    - Cílem tohoto projektu je návrh a realizace zpojení led pásku, včetně výběru odpovídajícího napájecího zdroje a ověření jeho správné a bezpečné funkce. Projekt se zaměřuje na pochopení funkce LED pásků.   
    1. Návrh zapojení.
-   2. Zapojení led pásku tak aby spolehlivě a bezzávadně svítlo.
+   2. Zapojení led pásku tak aby spolehlivě a bezzávadně svítil.
+   3. Odskoušení funkce pod dohledem odborného dozoru.
 
 ## tlumící se led diodový pásek 
    - funkci má řídit fororezistor který je v součásti děliče napětí ve kterém je i normálním rezistorem

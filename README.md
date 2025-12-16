@@ -1,8 +1,10 @@
 # rocnikovi-projekt
 
 ## led pásek  
+   - Cílem projektu je návrh a realizace zpojení led pásku, včetně výběru odpovídajícího napájecího zdroje a ověření jeho správné a bezpečné funkce. 
    - zapojení led pásku tak aby spolehlivě a bezzávadně svítlo.
    - návrh zapojení
+   - 
 
 ## tlumící se led diodový pásek 
    - funkci má řídit fororezistor který je v součásti děliče napětí ve kterém je i normálním rezistorem

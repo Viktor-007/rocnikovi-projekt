@@ -22,7 +22,8 @@
    - difuzor
    - montážní materiály jako jsou šrouby, oboustraná lepící páska
    - podle potřeby rozbočky pro více větví pásku
-   - led stmívač podle potřeby https://www.t-led.cz/p/led-ovladac-stmivac-rf12-61840/061840?gclid=EAIaIQobChMI4eqwscvBkQMV7JyDBx3CkwpyEAQYASABEgL5FvD_BwE&gbraid=0AAAAADwQN3Tah18VPX6_AUpsVr-Kt1KkX&wbraid=CkAKCAiAgP_JBhBMEjAA98eIfxoAeOF2iGvkxqoSm08Bxm3qry7apgKc1KECqaYuCvgiLKiYhza_CF09ULcaApGJ&utm_source=google&utm_medium=cpc&utm_id=20545706330&utm_campaign={campaignname}&utm_content=&utm_term=&utm_source=google&utm_medium=cpc&utm_campaign=AV-PMAX%20%7C%20Top%20drivers%20%7C%20feed%20only&utm_id=20545706330&gad_source=1&gad_campaignid=23328974097&gbraid=0AAAAADwQN3Tah18VPX6_AUpsVr-Kt1KkX
+   - led stmívač podle potřeby
+   - https://www.t-led.cz/p/led-ovladac-stmivac-rf12-61840/061840?gclid=EAIaIQobChMI4eqwscvBkQMV7JyDBx3CkwpyEAQYASABEgL5FvD_BwE&gbraid=0AAAAADwQN3Tah18VPX6_AUpsVr-Kt1KkX&wbraid=CkAKCAiAgP_JBhBMEjAA98eIfxoAeOF2iGvkxqoSm08Bxm3qry7apgKc1KECqaYuCvgiLKiYhza_CF09ULcaApGJ&utm_source=google&utm_medium=cpc&utm_id=20545706330&utm_campaign={campaignname}&utm_content=&utm_term=&utm_source=google&utm_medium=cpc&utm_campaign=AV-PMAX%20%7C%20Top%20drivers%20%7C%20feed%20only&utm_id=20545706330&gad_source=1&gad_campaignid=23328974097&gbraid=0AAAAADwQN3Tah18VPX6_AUpsVr-Kt1KkX
    
 ### schéma zapojení 
    - <img width="383" height="274" alt="image" src="https://github.com/user-attachments/assets/16f5e699-3651-4811-b4ba-5ab727c39dc6" />

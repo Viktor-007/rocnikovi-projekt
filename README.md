@@ -14,7 +14,6 @@
    - 12V zdroj-12V 48W
    - nebo 12V zdroj-12V 36W
    - spojovací vodiče
-   - předřadnej odpor 1K
    - ovaladač nebo regulátor podle typu pásku
    _ https://www.t-led.cz/p/rgbw-rf40b-led-ovladac-6392
    - konektory

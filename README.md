@@ -1,7 +1,7 @@
 # rocnikovi-projekt
 
 ## led pásek  
-   - Cílem tohoto projektu je návrh a realizace zpojení led pásku, včetně výběru odpovídajícího napájecího zdroje a ověření jeho správné a bezpečné funkce. Projekt se zaměřuje na pochopení funkce LED pásků.   
+   - Cílem tohoto projektu je návrh a realizace **zpojení led pásku**, včetně výběru odpovídajícího napájecího zdroje a ověření jeho správné a bezpečné funkce. Projekt se zaměřuje na pochopení funkce LED pásků.   
    1. Návrh zapojení.
    2. Zapojení led pásku tak aby **spolehlivě a bezzávadně** svítil.
    3. Odskoušení funkce pod **dohledem odborného dozoru**.
@@ -12,7 +12,6 @@
    - nebo RGB led pásek 12V 14.4W na 1 metru
    - nbo RGB led pásek 24V https://www.t-led.cz/search/s=LED%20RGBW%20p%C3%A1sek nebo https://www.t-led.cz/p/led-pasek-24rgb-cct-12-5w-zaruka-3-roky-85140
    - 12V zdroj-12V 48W
-   - nebo 12V zdroj-12V 36W
    - spojovací vodiče
    - ovaladač nebo regulátor podle typu pásku
    _ https://www.t-led.cz/p/rgbw-rf40b-led-ovladac-6392

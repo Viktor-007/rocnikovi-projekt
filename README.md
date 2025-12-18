@@ -1,6 +1,6 @@
 # rocnikovi-projekt
 
-## led pásek  
+## Zapojení RGBW led pásek  
    - Cílem tohoto projektu je návrh a realizace **zpojení led pásku**, včetně výběru odpovídajícího napájecího zdroje a ověření jeho správné a bezpečné funkce. Projekt se zaměřuje na pochopení funkce LED pásků.   
    1. Návrh zapojení.
    2. Zapojení led pásku tak aby **spolehlivě a bezzávadně** svítil.

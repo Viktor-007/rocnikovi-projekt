@@ -23,9 +23,8 @@
    _ https://www.t-led.cz/p/led-ovladac-stmivac-rf12-61840/061840?gclid=EAIaIQobChMI4eqwscvBkQMV7JyDBx3CkwpyEAQYASABEgL5FvD_BwE&gbraid=0AAAAADwQN3Tah18VPX6_AUpsVr-Kt1KkX&wbraid=CkAKCAiAgP_JBhBMEjAA98eIfxoAeOF2iGvkxqoSm08Bxm3qry7apgKc1KECqaYuCvgiLKiYhza_CF09ULcaApGJ&utm_source=google&utm_medium=cpc&utm_id=20545706330&utm_campaign={campaignname}&utm_content=&utm_term=&utm_source=google&utm_medium=cpc&utm_campaign=AV-PMAX%20%7C%20Top%20drivers%20%7C%20feed%20only&utm_id=20545706330&gad_source=1&gad_campaignid=23328974097&gbraid=0AAAAADwQN3Tah18VPX6_AUpsVr-Kt1KkX
    
 ### schéma zapojení 
-   - <img width="383" height="274" alt="image" src="https://github.com/user-attachments/assets/16f5e699-3651-4811-b4ba-5ab727c39dc6" />
-   - <img width="650" height="438" alt="image" src="https://github.com/user-attachments/assets/8cfc4f61-cd7a-4ae7-a683-06b329a9d369" /> 
-   - <img width="1254" height="2430" alt="image" src="https://github.com/user-attachments/assets/e3cb5051-5f7a-4a8f-8d44-5517e82492f8" />
+   -<img width="728" height="487" alt="image" src="https://github.com/user-attachments/assets/ecaafa04-e84e-46dc-bca9-6c52c512cd64" />
+
 
 ### citace
    - Obecný zdroj informací. Online. Dostupné z: https://elektroschema.com/schema-zapojeni-led-pasku/. [cit. 2025-12-11].

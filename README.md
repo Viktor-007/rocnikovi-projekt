@@ -9,7 +9,7 @@
 
 ### seznam součástek
    - led pásek-12V 13W na 1 metru
-   - 12V zdroj-12V 48W
+   - zdroj-12V 48W
    - spojovací vodiče
    - ovaladač
    - regulátor
@@ -18,7 +18,10 @@
    - montážní materiály jako jsou šrouby, oboustraná lepící páska
    - podle potřeby rozbočky pro více větví pásku
    - led stmívač podle potřeby
-   
+
+### výpočet a dimenzování zdroje 
+   - Při výpočtu zdroje se musí počítat s tím jakou spotřebu bude mít zdroj na 1. metru LED pásku. Musíme taky počítat s tím jaké bude mít zdroj maximální dlouhodobé zatížení. Univerzálně se uvádí 20% až 30% z maximálního zatížení zdroje.
+   - Výpočet tedy musí být: odběr pásku na jednom metru * počet 
    
 ### schéma zapojení 
    -<img width="728" height="487" alt="image" src="https://github.com/user-attachments/assets/ecaafa04-e84e-46dc-bca9-6c52c512cd64" />

@@ -30,7 +30,7 @@
    - Prvním krokem je stanovení požadovaného napětí. Napětí zdroje musí odpovídat napětí, které vyžaduje napájené zařízení
    - Překročení jmenovitého napětí může vést k poškození zařízení, naopak nižší napětí může způsobit jeho nesprávnou funkci například žě bude led pásek slaběji svítit.
    - Dalším krokem je výpočet celkového proudu, který budou všechny připojené spotřebiče odebírat. Proud jednotlivých zařízení se sečte. Výsledná hodnota proudů je minimální a musí se počítat s vyším odběrem proudu.  
-   - 
+   - S tím se také váže to že by se zdroje neměli vybírat ne jen podle toho aby byli levné za cenu toho že bodou na hranici výkonu 
    
    
 ### schéma zapojení 
@@ -44,6 +44,7 @@
    - Informace o led pásku. Online. 2025. Dostupné z: https://cs.wikipedia.org/wiki/LED_p%C3%A1sek. [cit. 2025-12-14].
    - Informace o zapojení 12V led pásku. Online. 2025. Dostupné z: https://elektroschema.com/schema-zapojeni-led-pasku-na-12v/. [cit. 2025-12-14].
    - Informace o chlazení led pásku. Online. 2025. Dostupné z: https://cs.wikipedia.org/wiki/LED_p%C3%A1sek#Chlazen%C3%AD. [cit. 2025-12-14].
+   - Informace o zatížitelnosti zdroje. Online. Dostupné z: https://mardomdecor.com/cs/blog/jaky-zdroj-led-bych-mel-zvolit-technicke-rady-a-tipy/. [cit. 2026-01-08].
 
 ### poděkování 
    - Chtěl bych tímto poděkovat tátovi za vysvětlení všeho za mě potřebného k tomuto tématu. Byly to věci které jsem nikde nemohl dohledat 

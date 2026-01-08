@@ -19,10 +19,19 @@
    - podle potřeby rozbočky pro více větví pásku
    - led stmívač podle potřeby
 
-### výpočet a dimenzování zdroje 
+### výpočet výkonu zdroje 
    - Při výpočtu zdroje se musí počítat s tím jakou spotřebu bude mít zdroj na 1. metru LED pásku. Musíme taky počítat s tím jaké bude mít zdroj maximální dlouhodobé zatížení. Univerzálně se uvádí 20% až 30% z maximálního zatížení zdroje.
    - Výpočet tedy musí být: odběr pásku na jednom metru * délka pásku (v metrech) + 20% až 30% (podle výrobce zdroje)
    - Je taky potřeba uvážit v potaz jestli bude pásek svítit 6 až 8 hodin v kuse.
+   - Pro tyto zapojení je potřeba počítat s rezervou 30% až 40%.
+
+### dimenzováni zdroje
+   - Dimenzování napájecího zdroje je důležitá část návrhu každého elektrického nebo elektronického zařízení. Když je zdroj správně zvolený, zařízení funguje spolehlivě, součástky se zbytečně neničí a snižuje se riziko poruch nebo poškození celého obvodu.
+   - Prvním krokem je stanovení požadovaného napětí. Napětí zdroje musí odpovídat napětí, které vyžaduje napájené zařízení
+   - Překročení jmenovitého napětí může vést k poškození zařízení, naopak nižší napětí může způsobit jeho nesprávnou funkci například žě bude led pásek slaběji svítit.
+   - Dalším krokem je výpočet celkového proudu, který budou všechny připojené spotřebiče odebírat. Proud jednotlivých zařízení se sečte. Výsledná hodnota proudů je minimální a musí se počítat s vyším odběrem proudu.  
+   - 
+   
    
 ### schéma zapojení 
    -<img width="728" height="487" alt="image" src="https://github.com/user-attachments/assets/ecaafa04-e84e-46dc-bca9-6c52c512cd64" /> 

@@ -47,5 +47,5 @@
    - Informace o zatížitelnosti zdroje. Online. Dostupné z: https://mardomdecor.com/cs/blog/jaky-zdroj-led-bych-mel-zvolit-technicke-rady-a-tipy/. [cit. 2026-01-08].
 
 ### poděkování 
-   - Chtěl bych tímto poděkovat tátovi za vysvětlení všeho za mě potřebného k tomuto tématu. Byly to věci které jsem nikde nemohl dohledat 
+   - Chtěl bych tímto poděkovat tátovi za vysvětlení všeho za mě potřebného k tomuto tématu. Byly to věci které jsem nikde nemohl dohledat. 
 

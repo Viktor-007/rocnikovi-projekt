@@ -23,7 +23,7 @@
    - Při výpočtu zdroje se musí počítat s tím jakou spotřebu bude mít zdroj na 1. metru LED pásku. Musíme taky počítat s tím jaké bude mít zdroj maximální dlouhodobé zatížení. Univerzálně se uvádí 20% až 30% z maximálního zatížení zdroje.
    - Výpočet tedy musí být: odběr pásku na jednom metru * délka pásku (v metrech) + 20% až 30% (podle výrobce zdroje)
    - Je taky potřeba uvážit v potaz jestli bude pásek svítit 6 až 8 hodin v kuse.
-   - Pro tyto zapojení je potřeba počítat s rezervou 30% až 40%.
+   - Pro tyto zapojení je potřeba počítat s rezervou 30% až 40% výkonu zdroje. V této situaci je dobré počítat s tím že ne všechny zdroje budou plně funkční.
 
 ### dimenzováni zdroje
    - Dimenzování napájecího zdroje je důležitá část návrhu každého elektrického nebo elektronického zařízení. Když je zdroj správně zvolený, zařízení funguje spolehlivě, součástky se zbytečně neničí a snižuje se riziko poruch nebo poškození celého obvodu.

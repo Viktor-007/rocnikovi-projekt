@@ -31,7 +31,11 @@
    - Překročení jmenovitého napětí může vést k poškození zařízení, naopak nižší napětí může způsobit jeho nesprávnou funkci například žě bude led pásek slaběji svítit.
    - Dalším krokem je výpočet celkového proudu, který budou všechny připojené spotřebiče odebírat. Proud jednotlivých zařízení se sečte. Výsledná hodnota proudů je minimální a musí se počítat s vyším odběrem proudu.  
    - S tím se také váže to že by se zdroje neměli vybírat ne jen podle toho aby byli levné za cenu toho že bodou na hranici výkonu a nebo také že budou nekvalitně vyrobené. Nicméně je to na každém pro jaku možnost se rozhodne.
-   
+
+### výběr zdroje
+   - Zdroje se vybírají podle toho v jakém prostředí jou používány.
+   - V interiéru se nejčastěji používají krabičkové zdroje nebo přímo adaptéry. Ve venkovním prostředí se používají zdroje vyššího stupně IP ochrany. V průmyslu se používají nejčastěji zdtoje na din lištu.
+   - Ve všech případech je potřeba vybírat zdroje podle výše napsaných parametrů.
    
 ### schéma zapojení 
    -<img width="728" height="487" alt="image" src="https://github.com/user-attachments/assets/ecaafa04-e84e-46dc-bca9-6c52c512cd64" /> 

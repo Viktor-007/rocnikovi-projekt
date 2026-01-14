@@ -34,7 +34,7 @@
 
 ### výběr zdroje
    - Zdroje se vybírají podle toho v jakém prostředí jou používány.
-   - V interiéru se nejčastěji používají krabičkové zdroje nebo přímo adaptéry. Ve venkovním prostředí se používají zdroje **vyššího stupně IP ochrany**. V průmyslu se používají nejčastěji zdtoje na din lištu.
+   - V interiéru se nejčastěji používají krabičkové zdroje nebo přímo adaptéry. Ve venkovním prostředí se používají zdroje vyššího stupně IP ochrany. V průmyslu se používají nejčastěji zdtoje na din lištu.
    - V potaz se také musí brát že ne všechny stejně vypadající zdroje s rozdílnou cenou budou stejně spolehlivé. 
    - Ve všech případech je potřeba vybírat zdroje podle výše napsaných parametrů. 
    

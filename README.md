@@ -8,11 +8,11 @@
    4. Závěrečné zkontralování práce.
 
 ### seznam součástek
-   - led pásek-24V 16W na 1 metru https://www.t-led.cz/p/cob-led-pasek-24rgbwcob-ww-16w-zaruka-3-roky-85142
-   - zdroj-24V 75W https://www.t-led.cz/p/led-zdroj-24v-75w-npz-24-75-vnitrni-52452
+   - led pásek-24V 16W na 1 metru COB LED pásek RGBW-WW 24V 16W 
+   - zdroj-24V 75W LED zdroj 24V 75W NPZ-24-75 vnitřní
    - spojovací vodiče
-   - ovaladač https://www.t-led.cz/p/ovladac-dimled-ovs-rgbw-4kr-69204
-   - regulátor/přijímač https://www.t-led.cz/p/prijimac-dimled-zigbee-pr-5k-69061
+   - ovaladač Ovladač dimLED OVS RGBW 4KR
+   - regulátor/přijímač SMART přijímač dimLED ZIGBEE PR 5K 5v1
    - konektory
    - hliníkovy profil pro led pásek
    - montážní materiály jako jsou šrouby, oboustraná lepící páska protože u každého LED pásku 

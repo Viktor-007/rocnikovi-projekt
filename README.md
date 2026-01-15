@@ -11,7 +11,7 @@
    - led pásek-24V 16W na 1 metru https://www.t-led.cz/p/cob-led-pasek-24rgbwcob-ww-16w-zaruka-3-roky-85142
    - zdroj-24V 75W https://www.t-led.cz/p/led-zdroj-24v-75w-npz-24-75-vnitrni-52452
    - spojovací vodiče
-   - ovaladač
+   - ovaladač https://www.t-led.cz/p/ovladac-dimled-ovs-rgbw-4kr-69204
    - regulátor/přijímač https://www.t-led.cz/p/prijimac-dimled-zigbee-pr-5k-69061
    - konektory
    - hliníkovy profil pro led pásek

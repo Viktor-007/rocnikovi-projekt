@@ -38,7 +38,7 @@
      
 ### výpočet mého zdroje:
    - I =P/U =16/24 =0,67A na metr na 3. metrech 2A
-   - P =P1*počet metrů =3*16 =48W 
+   - P =P1 . počet metrů =3 . 16 =48W 
 
    
 ### schéma zapojení 

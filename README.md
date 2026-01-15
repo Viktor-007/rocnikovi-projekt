@@ -8,16 +8,14 @@
    4. Závěrečné zkontralování práce.
 
 ### seznam součástek
-   - led pásek-12V 13W na 1 metru
-   - zdroj-12V 48W
+   - led pásek-24V 16W na 1 metru https://www.t-led.cz/p/cob-led-pasek-24rgbwcob-ww-16w-zaruka-3-roky-85142
+   - zdroj-24V 75W https://www.t-led.cz/p/led-zdroj-24v-75w-npz-24-75-vnitrni-52452
    - spojovací vodiče
    - ovaladač
-   - regulátor
+   - regulátor/přijímač https://www.t-led.cz/p/prijimac-dimled-zigbee-pr-5k-69061
    - konektory
    - hliníkovy profil pro led pásek
    - montážní materiály jako jsou šrouby, oboustraná lepící páska protože u každého LED pásku 
-   - podle potřeby rozbočky pro více větví pásku
-   - led stmívač podle potřeby
 
 ### výpočet výkonu zdroje 
    - Při výpočtu zdroje se musí počítat s tím jakou spotřebu bude mít zdroj na 1. metru LED pásku. Musíme taky počítat s tím jaké bude mít zdroj maximální dlouhodobé zatížení. Univerzálně se uvádí 20% až 30% z maximálního zatížení zdroje.
@@ -36,7 +34,12 @@
    - Zdroje se vybírají podle toho v jakém prostředí jou používány.
    - V interiéru se nejčastěji používají krabičkové zdroje nebo přímo adaptéry. Ve venkovním prostředí se používají zdroje vyššího stupně IP ochrany. V průmyslu se používají nejčastěji zdoje na din lištu.
    - V potaz se také musí brát že ne všechny stejně vypadající zdroje s rozdílnou cenou budou stejně spolehlivé. 
-   - Ve všech případech je potřeba vybírat zdroje podle výše napsaných parametrů. 
+   - Ve všech případech je potřeba vybírat zdroje podle výše napsaných parametrů.
+     
+### výpočet mého zdroje:
+   - I =P/U =16/24 =0,67A na metr na 3. metrech 2A
+   - P =P1*počet metrů =3*16 =48W 
+
    
 ### schéma zapojení 
    -<img width="728" height="487" alt="image" src="https://github.com/user-attachments/assets/ecaafa04-e84e-46dc-bca9-6c52c512cd64" /> 

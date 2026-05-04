@@ -69,8 +69,13 @@
 
 ### diagnostaka závady
    - Kontrola napájení proběhla ještě před rozděláním celé vrtačky. Proběhla kontrlou přívodního kabelu.
-   - Po rozdělání vrtačky jsem zkontroloval spínač, ložiska, převodovku.
+   - Po rozdělání vrtačky jsem zkontroloval spínač, ložiska, převodovku. Při kontrole dílů jsem  zjistil, že spínač je vadný
    - Zjistil jsem to že problém byl v přívodovém kabelu který byl přerušen až v těle vrtačky.
+
+### oprava
+   - celou vrtačku jsem vyčistil
+   - vyměnil jsem spínač a nově připájel přívod
+   - promazal jsem převodovku 
 
 ### obrázky
    -<img width="1402" height="1122" alt="rozdělaná vrtačka" src="https://github.com/user-attachments/assets/94248c1f-0bfe-4234-b260-04dab4015634" />

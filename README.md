@@ -43,7 +43,6 @@
    
 ### schéma zapojení 
    -<img width="728" height="487" alt="image" src="https://github.com/user-attachments/assets/ecaafa04-e84e-46dc-bca9-6c52c512cd64" /> 
-   - Chtěl bych tímto poděkovat
 
 ### citace
    - Obecný zdroj informací. Online. Dostupné z: https://elektroschema.com/schema-zapojeni-led-pasku/. [cit. 2025-12-11].
@@ -58,3 +57,23 @@
    - Chtěl bych tímto poděkovat tátovi za vysvětlení všeho za mě potřebného k tomuto tématu. Byly to věci které jsem nikde nemohl dohledat. 
 
 # Druhá část ročníkového projektu
+
+## oprava vrtačky
+
+### bezpečnost práce 
+   -nejdůležitější je bezpečnost práce aby se nikomu nic nestalo.
+#### opatřění 
+   - je potreba aby byla vapojená z elektriky nebo aby byla bez akumulátoru 
+   - je potřeba pracovat v suchém prostředí když se to týká elektrických věcí
+   - je potřeba také používat ochrané pomůcky a správné nářadí
+
+### diagnostaka závady
+   - Kontrola napájení proběhla ještě před rozděláním celé vrtačky. Proběhla kontrlou přívodního kabelu.
+   - Po rozdělání vrtačky jsem zkontroloval spínač, ložiska, převodovku.
+   - Zjistil jsem to že problém byl v přívodovém kabelu který byl přerušen až v těle vrtačky.
+
+### obrázky
+   -<img width="1402" height="1122" alt="rozdělaná vrtačka" src="https://github.com/user-attachments/assets/94248c1f-0bfe-4234-b260-04dab4015634" />
+
+
+

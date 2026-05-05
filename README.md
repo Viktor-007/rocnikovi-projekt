@@ -78,6 +78,7 @@
    - promazal jsem převodovku 
 
 ### obrázky
+   - <img width="612" height="407" alt="rozdělaná vrtačka 1" src="https://github.com/user-attachments/assets/acc83c2b-20f5-4098-98ee-129972cc5f3c" />
    - <img width="1402" height="1122" alt="rozdělaná vrtačka" src="https://github.com/user-attachments/assets/94248c1f-0bfe-4234-b260-04dab4015634" />
    - <img width="800" height="532" alt="vrtačka_2" src="https://github.com/user-attachments/assets/ddbc81df-ed0b-4ad5-ad5f-02eeb5869c50" />
 

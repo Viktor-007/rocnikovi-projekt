@@ -75,14 +75,24 @@
 ### oprava
    - celou vrtačku jsem vyčistil
    - vyměnil jsem spínač a nově připájel přívod
-   - promazal jsem převodovku 
+   - promazal jsem převodovku
+
+### cenová výhodnost
+   - výměna uhlíků u komutátorových vrtaček, není to nákladná věc takže se vyplácí.
+   - výměna ložisek je už trochu nákladnější ,ale pořád se to vyplácí.
+   - výměna spínačěe se taky vyplatí.
+   - výměna převodovky se podle mě vyplácí podle stáří vrtačky. když je starší 8 let tak je to už podle mě nevíhodné.
+   - Při stáří do 5 let se to asi vyplácí, když je to mezi tak je to otáka na osobním názoru. 
+   - výměna motoru je hodně nákladná a tím pádem se se neviplácí a to nemluvně že se vše vyndá ven z obalu vrtačky a potom se to musí dát vše zpět a někdy potom už tem plastový obal už nemusí moc držet pohromadě. 
+       
 
 ### obrázky
    - <img width="612" height="407" alt="rozdělaná vrtačka 1" src="https://github.com/user-attachments/assets/acc83c2b-20f5-4098-98ee-129972cc5f3c" />
    - <img width="1402" height="1122" alt="rozdělaná vrtačka" src="https://github.com/user-attachments/assets/94248c1f-0bfe-4234-b260-04dab4015634" />
    - <img width="800" height="532" alt="vrtačka_2" src="https://github.com/user-attachments/assets/ddbc81df-ed0b-4ad5-ad5f-02eeb5869c50" />
 
-
-
+### citace
+   - Informace o opravě vrtačky. Online. Dostupné z: https://www.youtube.com/watch?v=efS3i1gvVVQ. [cit. 2026-05-07].
+   - 
 
 

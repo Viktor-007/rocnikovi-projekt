@@ -83,7 +83,8 @@
    - výměna spínačěe se taky vyplatí.
    - výměna převodovky se podle mě vyplácí podle stáří vrtačky. když je starší 8 let tak je to už podle mě nevíhodné.
    - Při stáří do 5 let se to asi vyplácí, když je to mezi tak je to otáka na osobním názoru. 
-   - výměna motoru je hodně nákladná a tím pádem se se neviplácí a to nemluvně že se vše vyndá ven z obalu vrtačky a potom se to musí dát vše zpět a někdy potom už tem plastový obal už nemusí moc držet pohromadě. 
+   - výměna motoru je hodně nákladná a tím pádem se se neviplácí a to nemluvně že se vše vyndá ven z obalu vrtačky a potom se to musí dát vše zpět a někdy potom už tem plastový obal už nemusí moc držet pohromadě.
+   - oprava a přepájení přerušených drátků se podle mě vyplatí vždy. 
        
 
 ### obrázky

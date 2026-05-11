@@ -44,6 +44,20 @@
 ### schéma zapojení 
    -<img width="728" height="487" alt="image" src="https://github.com/user-attachments/assets/ecaafa04-e84e-46dc-bca9-6c52c512cd64" /> 
 
+### vysledné fotky
+   -<img width="3264" height="1472" alt="IMG20260511164008" src="https://github.com/user-attachments/assets/9c6a3344-e568-4a79-bde4-c42beff298b0" />
+   -<img width="3264" height="1472" alt="IMG20260511164025" src="https://github.com/user-attachments/assets/a02bc4d3-6dc5-459e-bb0a-c76b7e8a4eaf" />
+   -<img width="1235" height="644" alt="image" src="https://github.com/user-attachments/assets/449fccda-d8cc-4080-a9d8-56f6e0b172ce" />
+   -<img width="1240" height="289" alt="image" src="https://github.com/user-attachments/assets/5fe4a998-a75b-491d-afbe-e2b6e5b1b926" />
+
+
+
+
+
+
+
+
+
 ### citace
    - Obecný zdroj informací. Online. Dostupné z: https://elektroschema.com/schema-zapojeni-led-pasku/. [cit. 2025-12-11].
    - Video informace. Online. 2025. Dostupné z: https://www.youtube.com/watch?v=A-nCv4oWz54. [cit. 2025-12-12].

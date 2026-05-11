@@ -103,11 +103,11 @@
 
 ### obrázky
    - <img width="612" height="407" alt="rozdělaná vrtačka 1" src="https://github.com/user-attachments/assets/acc83c2b-20f5-4098-98ee-129972cc5f3c" />
-   - <img width="1402" height="1122" alt="rozdělaná vrtačka" src="https://github.com/user-attachments/assets/94248c1f-0bfe-4234-b260-04dab4015634" />
-   - <img width="800" height="532" alt="vrtačka_2" src="https://github.com/user-attachments/assets/ddbc81df-ed0b-4ad5-ad5f-02eeb5869c50" />
-
+   
 ### citace
    - Informace o opravě vrtačky. Online. Dostupné z: https://www.youtube.com/watch?v=efS3i1gvVVQ. [cit. 2026-05-07].
-   - 
+   - Video návod. Online. Dostupné z: https://www.bing.com/videos/riverview/relatedvideo?q=oprava+vrta%c4%8dky&mid=BB0BE622CC7432E536D0BB0BE622CC7432E536D0&churl=https%3a%2f%2fwww.youtube.com%2fchannel%2fUC5EsWL7Xvudh4dsDVvarD_A&FORM=VIRE. [cit. 2026-05-11].
+   - Video návod. Online. [cit. 2026-05-11].
 
-
+### poděkování
+   - tímto bych chtěl poděkovat tátovi za rady jak bezpečnostní tak i ty praktické a pomoc při práci s opravou.

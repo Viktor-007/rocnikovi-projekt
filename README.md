@@ -89,11 +89,12 @@
 ### oprava
    - celou vrtačku jsem vyčistil
    - vyměnil jsem spínač a nově připájel přívod
-   - promazal jsem převodovku
-
+   - vyměnil jsem i odrušovací kondenzátor
+   - promazal jsem převodovku speciální vazelínou pro točivé nástroje
+    
 ### cenová výhodnost
    - výměna uhlíků u komutátorových vrtaček, není to nákladná věc takže se vyplácí.
-   - výměna ložisek je už trochu nákladnější ,ale pořád se to vyplácí.
+   - výměna ložisek je už trochu nákladnější, ale pořád se to vyplácí.
    - výměna spínačěe se taky vyplatí.
    - výměna převodovky se podle mě vyplácí podle stáří vrtačky. když je starší 8 let tak je to už podle mě nevíhodné.
    - Při stáří do 5 let se to asi vyplácí, když je to mezi tak je to otáka na osobním názoru. 
@@ -107,7 +108,7 @@
 ### citace
    - Informace o opravě vrtačky. Online. Dostupné z: https://www.youtube.com/watch?v=efS3i1gvVVQ. [cit. 2026-05-03].
    - Video návod. Online. Dostupné z: https://www.bing.com/videos/riverview/relatedvideo?q=oprava+vrta%c4%8dky&mid=BB0BE622CC7432E536D0BB0BE622CC7432E536D0&churl=https%3a%2f%2fwww.youtube.com%2fchannel%2fUC5EsWL7Xvudh4dsDVvarD_A&FORM=VIRE. [cit. 2026-05-03].
-   - Informace o hledání závad. Online. [cit. 2026-05-11].
+   - Informace o hledání závad. Online. Dostupné z:https://www.hermantools.cz/blog/nejcastejsi-poruchy-elektropneumatickych-vrtacich-kladiv. [cit. 2026-05-11].
 
 ### poděkování
    - tímto bych chtěl poděkovat tátovi za rady jak bezpečnostní tak i ty praktické a pomoc při práci s opravou.
